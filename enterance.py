@@ -1,2 +1,2 @@
-print(1,2, sep=None)
-print("qwer",456,end="!")
+x=96
+print(x-(x//10)*10)
