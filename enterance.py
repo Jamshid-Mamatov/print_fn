@@ -1,2 +1,5 @@
-x=198
-print(x%10+x//10%10+x//100)
+word="concentrate"
+print(word[:])
+print(word[:2]+word[2:])
+print(word[-2:10])
+print(len(word))
